@@ -54,7 +54,7 @@ body {
 }
 
 .hero {
-  background: url('images/hero.jpg') center/cover no-repeat;
+  background: url('images/model.jpg') center/cover no-repeat;
   height: 70vh;
   display: flex;
   justify-content: center;
@@ -62,6 +62,10 @@ body {
   color: #fff;
   text-align: center;
   background-attachment: fixed;
+}
+
+.hero{
+  background-image: url('./images/model.jpg');
 }
 
 .hero-content h1 {
