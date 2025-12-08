@@ -48,6 +48,10 @@ body {
   color: #e53935;
 }
 
+.icons{
+  display: flex;
+}
+
 .icons img {
   width: 25px;
   cursor: pointer;
