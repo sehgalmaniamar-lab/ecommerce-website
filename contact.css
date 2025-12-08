@@ -7,7 +7,7 @@
     }
     a { text-decoration: none; color: inherit; }
 
-    /* NAVBAR */
+
     .navbar {
       background: #fff;
       padding: 12px 28px;
@@ -40,7 +40,7 @@
     }
     .nav-links .active {
       background: #e53935;
-      color: #fff !important;
+      color: #fff ;
       padding: 8px 12px;
       border-radius: 6px;
     }
@@ -48,7 +48,7 @@
       width: 26px;
     }
 
-    /* CONTACT AREA */
+
     .contact-area {
       padding: 60px 30px;
       display: flex;
@@ -81,7 +81,7 @@
       color: #222;
     }
 
-    /* FORM */
+
     .contact-form label {
       font-weight: 600;
       margin-bottom: 6px;
@@ -122,7 +122,7 @@
       transform: translateY(-2px);
     }
 
-    /* FOOTER */
+
     footer {
       text-align: center;
       padding: 16px;
